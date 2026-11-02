@@ -1,7 +1,5 @@
 # Bloom Filter MLOps Lab: Submission
 
-**Source code repository:** https://github.com/ilyass-hm-04/Bloom_Filter.git
-
 ## Contents
 
 | Path | What it is |
